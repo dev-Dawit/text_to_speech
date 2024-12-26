@@ -1,3 +1,3 @@
 boto3
 streamlit
-newspaper
+newspaper3k
