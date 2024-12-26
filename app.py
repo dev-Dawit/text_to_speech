@@ -1,7 +1,6 @@
 import boto3
 import streamlit as st
 from newspaper import Article
-from newspaper.parsers import lxml_html_clean
 import os
 
 polly = boto3.client("polly")
